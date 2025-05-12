@@ -1,0 +1,8 @@
+opencv-python
+face_recognition
+tensorflow
+keras
+ultralytics
+numpy
+flask
+twilio
